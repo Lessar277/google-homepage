@@ -40,7 +40,7 @@ a {
 }
 
 #logo img {
-	height: 120px;
+	/*height: 120px;*/
 	width: 300px;
 	display:block;
 	margin:0 auto;
