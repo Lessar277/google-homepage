@@ -10,3 +10,10 @@ Version 1.0.1 - Fixed a bug where the two buttons beneath the search bar were no
 Version 1.0.2 - Added hover opacity for the "Apps" and "Sign-in" button
 
 Version 1.0.3 - Updated the Google logo with the new 2015 Logo Doodle
+
+Version 1.0.4 - Added 'placeholder' for searchbox
+
+Version 1.1 - Fixed a bug where the outline of the searchbox would not appear in IE or Firefox;
+            - Fixed a bug where text in the searchbox would scroll behind microphone icon;
+            - Removed ugly box-shadow from the buttons below searchbox. Now they look closer to their original versions from the actual Google Homepage;
+            - Got rid of the searchbox outline and added jQuery code for the box border to change color on input (previously, if one looked close enough, one could see there were two actual borders, one on top of the other).
