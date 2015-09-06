@@ -6,11 +6,11 @@
 
 $(document).ready(function(){
     $('#box').focusin(function(){
-        $('#box').css('border', '1px solid #93bdfa');
+        $('#box').css('border-color', '#93bdfa');
     });
 });
 $(document).ready(function(){
     $('#box').focusout(function(){
-        $('#box').css('border', '1px solid #ccc');
+        $('#box').css('border-color', '');
     });
 });

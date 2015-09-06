@@ -58,7 +58,7 @@ a {
     border-radius: 1px;
 	margin-bottom: 2%;
 	position:relative;
-	padding-right: 2px;
+	padding: 5px 2px;
 }
 
 #box:hover {
@@ -81,7 +81,7 @@ a {
 	height:19px;
 	width: 12px;
 	position: absolute;
-	top: 4px;
+	top: 8px;
 	right: 12px;
 }
 
